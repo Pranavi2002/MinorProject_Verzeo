@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  color: blue;
+  font-size: 35px;
+}
+
+nav{
+  text-align: center;
+  background-color: rgb(123, 255, 0);
+  padding: 20px;
+}
+
+.link{
+  padding: 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h3{
+  color: rgb(184, 25, 11);
+  font-size: 28px;
+}
+
+img{
+  height: auto;
+  width: 600px;
+}
+
+p{
+  font-size: 20px;
+  color: darkmagenta;
+  font-weight: 0;
+}
+
+h4{
+ color: yellowgreen;
+ font-size: 20px;
+}
+
+.services{
+  text-align: left;
+  color:darkgreen;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.img{
+  height: auto;
+  width: 100%;
+}
+
+li{
+  background-position: 0 5px;
+  line-height: 1.5625;
+  padding: 0 0 4px 30px;
+  margin-left: 1em;
+}
